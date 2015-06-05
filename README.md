@@ -1,2 +1,4 @@
-# miniature-octo-batman
-Repo for Github training
+## Instructions
+
+This is a test of updating the readme
+
